@@ -15,10 +15,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc560403-23a1-4aa5-bffe-6ea6d037284c" name="Default Changelist" comment="Learning Java">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bc560403-23a1-4aa5-bffe-6ea6d037284c" name="Default Changelist" comment="Learning Java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597066833909</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Learning Java">
+      <created>1597068837613</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597068837613</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,10 +106,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="Learning Java" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1597067098330">
+    <state width="1218" height="184" key="GridCell.Tab.0.bottom" timestamp="1597069171235">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1597067098330" />
+    <state width="1218" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1597069171235" />
+    <state width="1218" height="184" key="GridCell.Tab.0.center" timestamp="1597069171235">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="184" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1597069171235" />
+    <state width="1218" height="184" key="GridCell.Tab.0.left" timestamp="1597069171234">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="184" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1597069171234" />
+    <state width="1218" height="184" key="GridCell.Tab.0.right" timestamp="1597069171235">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1597069171235" />
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1597068842335">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1597068842335" />
     <state x="418" y="307" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597067079123">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
