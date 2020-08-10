@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args){
         String question = "What is the largest planet in our solar system?";
         String choiceOne = "Earth";
-        String choiceTwo = "Jupiter";
+        String choiceTwo = "jupiter";
         String choiceThree = "Saturn";
 
         String correctAnswer = choiceTwo;
@@ -20,9 +20,10 @@ public class Main {
         // Retrieve the user's input
         String input = scanner.next();
 
+
         // if the user's input matches the correctAnswer..
         // then the user is correct and we want to print out a congrats message to the user.
-        if(correctAnswer.equals(input)){
+        if(correctAnswer.equals(input.toLowerCase())){
             System.out.println("Congrats! That's the correct answer");
         } else {
             System.out.println("Your are incorrect. The correct answer is " + correctAnswer);
