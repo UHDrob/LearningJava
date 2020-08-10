@@ -5,7 +5,8 @@ public class Main {
         char studentFirstInitial = 'K';
         char studentLastInitial = 'H';
         boolean hasPerfectAttendance = true;
-
+        String studentFirstName = "Kayla";
+        String studentLastName = "Hammon";
         // System.out.println(studentAge);
 
 
@@ -14,5 +15,8 @@ public class Main {
         System.out.println("Student First Initial: " + studentFirstInitial);
         System.out.println("Student Last Initial: " + studentLastInitial);
         System.out.println("Student Attendance: " + hasPerfectAttendance);
+        System.out.println("Student First Name: " + studentFirstName);
+        System.out.println("Student Last Name: " + studentLastName);
+
     }
 }
