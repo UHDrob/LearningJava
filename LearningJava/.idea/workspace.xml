@@ -6,16 +6,28 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:LearningJava" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:02_02b" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc560403-23a1-4aa5-bffe-6ea6d037284c" name="Default Changelist" comment="Learning Java" />
+    <list default="true" id="bc560403-23a1-4aa5-bffe-6ea6d037284c" name="Default Changelist" comment="02 02">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +41,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1fuRuWuilc4IVS223La1bXxHCBL" />
@@ -86,7 +103,28 @@
       <option name="project" value="LOCAL" />
       <updated>1597068837613</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="02 02">
+      <created>1597069419574</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597069419574</updated>
+    </task>
+    <task id="LOCAL-00005" summary="02 02">
+      <created>1597069545867</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597069545867</updated>
+    </task>
+    <task id="LOCAL-00006" summary="02 02">
+      <created>1597069610372</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597069610372</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,7 +132,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="02_02b" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -103,7 +153,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Learning Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learning Java" />
+    <MESSAGE value="02 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="02 02" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1218" height="184" key="GridCell.Tab.0.bottom" timestamp="1597069171235">
@@ -122,10 +173,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="1218" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1597069171235" />
-    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1597068842335">
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1597069618879">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1597068842335" />
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1597069618879" />
     <state x="418" y="307" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597067079123">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
