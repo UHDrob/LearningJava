@@ -9,6 +9,7 @@ public class Main {
         System.out.println("It's developer tea time!");
     }
     public static void main(String[] args){
-        System.out.println("Hello World  IntelliJ IDE !");
+        System.out.println("Here we go...");
+        announceDeveloperTeaTime();
     }
 }
