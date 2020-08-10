@@ -20,14 +20,12 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:02_02b" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:02_05b" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc560403-23a1-4aa5-bffe-6ea6d037284c" name="Default Changelist" comment="02 02">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="bc560403-23a1-4aa5-bffe-6ea6d037284c" name="Default Changelist" comment="02 02" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +41,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/.." value="master" />
+        <entry key="$PROJECT_DIR$/.." value="02_02b" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -145,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597070529676</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="02 02">
+      <created>1597071637453</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1597071637453</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,7 +164,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="02_02b" />
+                        <option value="02_05b" />
                       </list>
                     </value>
                   </entry>
@@ -178,26 +183,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="02 02" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1218" height="184" key="GridCell.Tab.0.bottom" timestamp="1597070420531">
+    <state width="1238" height="184" key="GridCell.Tab.0.bottom" timestamp="1597071803323">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1597071803323" />
+    <state width="1218" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1597071405335" />
+    <state width="1238" height="184" key="GridCell.Tab.0.center" timestamp="1597071803322">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1597071803322" />
+    <state width="1218" height="184" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1597071405334" />
+    <state width="1238" height="184" key="GridCell.Tab.0.left" timestamp="1597071803321">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1597071803321" />
+    <state width="1218" height="184" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1597071405333" />
+    <state width="1238" height="184" key="GridCell.Tab.0.right" timestamp="1597071803323">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1597071803323" />
+    <state width="1218" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1597071405335" />
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1597071643957">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1218" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1597070420531" />
-    <state width="1218" height="184" key="GridCell.Tab.0.center" timestamp="1597070420529">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1218" height="184" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1597070420529" />
-    <state width="1218" height="184" key="GridCell.Tab.0.left" timestamp="1597070420526">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1218" height="184" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1597070420526" />
-    <state width="1218" height="184" key="GridCell.Tab.0.right" timestamp="1597070420530">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1218" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1597070420530" />
-    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1597070412589">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1597070412589" />
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1597071643957" />
     <state x="418" y="307" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597067079123">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
