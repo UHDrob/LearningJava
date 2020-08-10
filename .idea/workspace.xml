@@ -26,6 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="901ac8f1-0651-4af8-af39-02b14306e84b" name="Default Changelist" comment="03_07b">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningJava/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearningJava/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597094014585</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="03_07b">
+      <created>1597094342570</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597094342570</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,9 +147,13 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="128" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1597065177934" />
-    <state x="2554" y="1264" key="Vcs.Push.Dialog.v2" timestamp="1597094020597">
+    <state x="2554" y="1264" key="Vcs.Push.Dialog.v2" timestamp="1597094346799">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state x="2554" y="1264" key="Vcs.Push.Dialog.v2/0.0.3840.2120@0.0.3840.2120" timestamp="1597094020597" />
+    <state x="2554" y="1264" key="Vcs.Push.Dialog.v2/0.0.3840.2120@0.0.3840.2120" timestamp="1597094346799" />
+    <state x="2625" y="1232" width="672" height="678" key="search.everywhere.popup" timestamp="1597094187208">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="2625" y="1232" width="672" height="678" key="search.everywhere.popup/0.0.3840.2120@0.0.3840.2120" timestamp="1597094187208" />
   </component>
 </project>
