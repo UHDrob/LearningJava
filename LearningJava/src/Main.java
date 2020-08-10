@@ -11,5 +11,11 @@ public class Main {
     public static void main(String[] args){
         System.out.println("Here we go...");
         announceDeveloperTeaTime();
+
+        System.out.println("Write code");
+        System.out.println("Review coce");
+        announceDeveloperTeaTime();
+
+        System.out.println("Get promoted");
     }
 }
