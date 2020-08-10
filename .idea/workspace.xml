@@ -25,9 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="901ac8f1-0651-4af8-af39-02b14306e84b" name="Default Changelist" comment="03g">
-      <change beforePath="$PROJECT_DIR$/LearningJava/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearningJava/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="901ac8f1-0651-4af8-af39-02b14306e84b" name="Default Changelist" comment="03g plus" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597082909425</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="03g plus">
+      <created>1597083381605</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597083381605</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,37 +121,38 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="03g" />
-    <option name="LAST_COMMIT_MESSAGE" value="03g" />
+    <MESSAGE value="03g plus" />
+    <option name="LAST_COMMIT_MESSAGE" value="03g plus" />
   </component>
   <component name="WindowStateProjectService">
     <state x="668" y="699" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597082694962">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state x="668" y="699" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1597082694962" />
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1597083002777">
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1597083363760">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.3840.2120@0.0.3840.2120" timestamp="1597083002777" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1597083002777">
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.3840.2120@0.0.3840.2120" timestamp="1597083363760" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1597083363760">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.3840.2120@0.0.3840.2120" timestamp="1597083002777" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1597083002776">
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.3840.2120@0.0.3840.2120" timestamp="1597083363760" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1597083363760">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.3840.2120@0.0.3840.2120" timestamp="1597083002776" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1597083002777">
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.3840.2120@0.0.3840.2120" timestamp="1597083363760" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1597083363760">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.3840.2120@0.0.3840.2120" timestamp="1597083002777" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.3840.2120@0.0.3840.2120" timestamp="1597083363760" />
     <state x="128" y="23" key="SettingsEditor" timestamp="1597065177934">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="128" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1597065177934" />
-    <state x="806" y="777" key="Vcs.Push.Dialog.v2" timestamp="1597082915359">
+    <state x="806" y="777" key="Vcs.Push.Dialog.v2" timestamp="1597083388260">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state x="806" y="777" key="Vcs.Push.Dialog.v2/0.0.3840.2120@0.0.3840.2120" timestamp="1597082915359" />
+    <state x="806" y="777" key="Vcs.Push.Dialog.v2/0.0.3840.2120@0.0.3840.2120" timestamp="1597083388260" />
     <state x="1737" y="974" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597082456341">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
