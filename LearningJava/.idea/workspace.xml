@@ -25,7 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc560403-23a1-4aa5-bffe-6ea6d037284c" name="Default Changelist" comment="02 02" />
+    <list default="true" id="bc560403-23a1-4aa5-bffe-6ea6d037284c" name="Default Changelist" comment="02 05">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597071637453</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="02 02">
+      <created>1597071867105</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1597071867105</updated>
+    </task>
+    <task id="LOCAL-00012" summary="02 05">
+      <created>1597071889521</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1597071889521</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,7 +197,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Learning Java" />
     <MESSAGE value="02 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="02 02" />
+    <MESSAGE value="02 05" />
+    <option name="LAST_COMMIT_MESSAGE" value="02 05" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1238" height="184" key="GridCell.Tab.0.bottom" timestamp="1597071803323">
@@ -203,9 +221,10 @@
     </state>
     <state width="1238" height="184" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1597071803323" />
     <state width="1218" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1597071405335" />
-    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1597071643957">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state x="240" y="132" key="Vcs.Push.Dialog.v2" timestamp="1597072237667">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state x="240" y="132" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1597072237667" />
     <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1597071643957" />
     <state x="418" y="307" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597067079123">
       <screen x="0" y="23" width="1280" height="777" />
