@@ -7,7 +7,6 @@ public class Main {
         boolean hasPerfectAttendance = true;
         String studentFirstName = "Kayla";
         String studentLastName = "Hammon";
-        // System.out.println(studentAge);
 
 
         System.out.println("StudentAge: " + studentAge);
