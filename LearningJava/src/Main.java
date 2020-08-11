@@ -1,11 +1,21 @@
 public class Main {
-    public static double salaryCalculator(double hoursPerWeek, double amountPerHour) {
+    public static double salaryCalculator(double hoursPerWeek,
+                                          double amountPerHour,
+                                          int vacationDays) {
+        if(hoursPerWeek < 0) {
+            return -1;
+        }
+        if (amountPerHour < 0) {
+            return -1;
+        }
+
         double weeklyPaycheck = hoursPerWeek * amountPerHour;
-        return weeklyPaycheck * 52;
+        double unpaidTime = vacationDays * amountPerHour * 8;
+        return (weeklyPaycheck * 52) - unpaidTime;
     }
 
     public static void main(String[] args){
-        double salary = salaryCalculator(40, 15);
+        double salary = salaryCalculator(40, 15, 8);
         System.out.println(salary);
         System.out.println("and FINISH it!");
 
