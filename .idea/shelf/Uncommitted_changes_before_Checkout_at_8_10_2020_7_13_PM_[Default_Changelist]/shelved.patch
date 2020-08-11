@@ -1,0 +1,79 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"BRANCH:05_02b\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </select>\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"901ac8f1-0651-4af8-af39-02b14306e84b\" name=\"Default Changelist\" comment=\"05_02\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/repos.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/repos.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/LearningJava/src/Main.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/LearningJava/src/Main.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1fuPEYu72MxjH0B9VLJ7sUWDI2J\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"project.structure.last.edited\" value=\"Project\" />\r\n    <property name=\"project.structure.proportion\" value=\"0.0\" />\r\n    <property name=\"project.structure.side.proportion\" value=\"0.0\" />\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Main\" />\r\n      <module name=\"repos\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"901ac8f1-0651-4af8-af39-02b14306e84b\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1597064893582</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1597064893582</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"05_02\">\r\n      <created>1597099789608</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1597099789608</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"05_02\">\r\n      <created>1597101654305</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1597101654305</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"05_02\">\r\n      <created>1597101807181</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1597101807181</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"05_02b\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"05_02\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"05_02\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state width=\"1340\" height=\"289\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1597101921597\">\r\n      <screen x=\"0\" y=\"0\" width=\"3840\" height=\"2120\" />\r\n    </state>\r\n    <state width=\"1340\" height=\"289\" key=\"GridCell.Tab.0.bottom/0.0.3840.2120@0.0.3840.2120\" timestamp=\"1597101921597\" />\r\n    <state width=\"1340\" height=\"289\" key=\"GridCell.Tab.0.center\" timestamp=\"1597101921597\">\r\n      <screen x=\"0\" y=\"0\" width=\"3840\" height=\"2120\" />\r\n    </state>\r\n    <state width=\"1340\" height=\"289\" key=\"GridCell.Tab.0.center/0.0.3840.2120@0.0.3840.2120\" timestamp=\"1597101921597\" />\r\n    <state width=\"1340\" height=\"289\" key=\"GridCell.Tab.0.left\" timestamp=\"1597101921597\">\r\n      <screen x=\"0\" y=\"0\" width=\"3840\" height=\"2120\" />\r\n    </state>\r\n    <state width=\"1340\" height=\"289\" key=\"GridCell.Tab.0.left/0.0.3840.2120@0.0.3840.2120\" timestamp=\"1597101921597\" />\r\n    <state width=\"1340\" height=\"289\" key=\"GridCell.Tab.0.right\" timestamp=\"1597101921597\">\r\n      <screen x=\"0\" y=\"0\" width=\"3840\" height=\"2120\" />\r\n    </state>\r\n    <state width=\"1340\" height=\"289\" key=\"GridCell.Tab.0.right/0.0.3840.2120@0.0.3840.2120\" timestamp=\"1597101921597\" />\r\n    <state width=\"1340\" height=\"357\" key=\"GridCell.Tab.1.bottom\" timestamp=\"1597101916623\">\r\n      <screen x=\"0\" y=\"0\" width=\"3840\" height=\"2120\" />\r\n    </state>\r\n    <state width=\"1340\" height=\"357\" key=\"GridCell.Tab.1.bottom/0.0.3840.2120@0.0.3840.2120\" timestamp=\"1597101916623\" />\r\n    <state width=\"1340\" height=\"357\" key=\"GridCell.Tab.1.center\" timestamp=\"1597101916623\">\r\n      <screen x=\"0\" y=\"0\" width=\"3840\" height=\"2120\" />\r\n    </state>\r\n    <state width=\"1340\" height=\"357\" key=\"GridCell.Tab.1.center/0.0.3840.2120@0.0.3840.2120\" timestamp=\"1597101916623\" />\r\n    <state width=\"1340\" height=\"357\" key=\"GridCell.Tab.1.left\" timestamp=\"1597101916623\">\r\n      <screen x=\"0\" y=\"0\" width=\"3840\" height=\"2120\" />\r\n    </state>\r\n    <state width=\"1340\" height=\"357\" key=\"GridCell.Tab.1.left/0.0.3840.2120@0.0.3840.2120\" timestamp=\"1597101916623\" />\r\n    <state width=\"1340\" height=\"357\" key=\"GridCell.Tab.1.right\" timestamp=\"1597101916623\">\r\n      <screen x=\"0\" y=\"0\" width=\"3840\" height=\"2120\" />\r\n    </state>\r\n    <state width=\"1340\" height=\"357\" key=\"GridCell.Tab.1.right/0.0.3840.2120@0.0.3840.2120\" timestamp=\"1597101916623\" />\r\n    <state x=\"128\" y=\"23\" key=\"SettingsEditor\" timestamp=\"1597065177934\">\r\n      <screen x=\"0\" y=\"23\" width=\"1280\" height=\"777\" />\r\n    </state>\r\n    <state x=\"128\" y=\"23\" key=\"SettingsEditor/0.23.1280.777@0.23.1280.777\" timestamp=\"1597065177934\" />\r\n    <state x=\"2554\" y=\"1264\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1597101811911\">\r\n      <screen x=\"0\" y=\"0\" width=\"3840\" height=\"2120\" />\r\n    </state>\r\n    <state x=\"2554\" y=\"1264\" key=\"Vcs.Push.Dialog.v2/0.0.3840.2120@0.0.3840.2120\" timestamp=\"1597101811911\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 90f35e1d7718ccb305d2ac7a460e904afbf39b9c)
++++ .idea/workspace.xml	(date 1597104367304)
+@@ -26,8 +26,7 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="901ac8f1-0651-4af8-af39-02b14306e84b" name="Default Changelist" comment="05_02">
+-      <change beforePath="$PROJECT_DIR$/.idea/repos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/repos.iml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/LearningJava/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearningJava/src/Main.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -92,7 +91,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1597101807181</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="05_02">
++      <created>1597102094901</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1597102094901</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -124,22 +130,22 @@
+     <option name="LAST_COMMIT_MESSAGE" value="05_02" />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state width="1340" height="289" key="GridCell.Tab.0.bottom" timestamp="1597101921597">
++    <state width="1340" height="289" key="GridCell.Tab.0.bottom" timestamp="1597102083194">
+       <screen x="0" y="0" width="3840" height="2120" />
+     </state>
+-    <state width="1340" height="289" key="GridCell.Tab.0.bottom/0.0.3840.2120@0.0.3840.2120" timestamp="1597101921597" />
+-    <state width="1340" height="289" key="GridCell.Tab.0.center" timestamp="1597101921597">
++    <state width="1340" height="289" key="GridCell.Tab.0.bottom/0.0.3840.2120@0.0.3840.2120" timestamp="1597102083194" />
++    <state width="1340" height="289" key="GridCell.Tab.0.center" timestamp="1597102083193">
+       <screen x="0" y="0" width="3840" height="2120" />
+     </state>
+-    <state width="1340" height="289" key="GridCell.Tab.0.center/0.0.3840.2120@0.0.3840.2120" timestamp="1597101921597" />
+-    <state width="1340" height="289" key="GridCell.Tab.0.left" timestamp="1597101921597">
++    <state width="1340" height="289" key="GridCell.Tab.0.center/0.0.3840.2120@0.0.3840.2120" timestamp="1597102083193" />
++    <state width="1340" height="289" key="GridCell.Tab.0.left" timestamp="1597102083193">
+       <screen x="0" y="0" width="3840" height="2120" />
+     </state>
+-    <state width="1340" height="289" key="GridCell.Tab.0.left/0.0.3840.2120@0.0.3840.2120" timestamp="1597101921597" />
+-    <state width="1340" height="289" key="GridCell.Tab.0.right" timestamp="1597101921597">
++    <state width="1340" height="289" key="GridCell.Tab.0.left/0.0.3840.2120@0.0.3840.2120" timestamp="1597102083193" />
++    <state width="1340" height="289" key="GridCell.Tab.0.right" timestamp="1597102083193">
+       <screen x="0" y="0" width="3840" height="2120" />
+     </state>
+-    <state width="1340" height="289" key="GridCell.Tab.0.right/0.0.3840.2120@0.0.3840.2120" timestamp="1597101921597" />
++    <state width="1340" height="289" key="GridCell.Tab.0.right/0.0.3840.2120@0.0.3840.2120" timestamp="1597102083193" />
+     <state width="1340" height="357" key="GridCell.Tab.1.bottom" timestamp="1597101916623">
+       <screen x="0" y="0" width="3840" height="2120" />
+     </state>
+@@ -160,9 +166,9 @@
+       <screen x="0" y="23" width="1280" height="777" />
+     </state>
+     <state x="128" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1597065177934" />
+-    <state x="2554" y="1264" key="Vcs.Push.Dialog.v2" timestamp="1597101811911">
++    <state x="2554" y="1264" key="Vcs.Push.Dialog.v2" timestamp="1597102101116">
+       <screen x="0" y="0" width="3840" height="2120" />
+     </state>
+-    <state x="2554" y="1264" key="Vcs.Push.Dialog.v2/0.0.3840.2120@0.0.3840.2120" timestamp="1597101811911" />
++    <state x="2554" y="1264" key="Vcs.Push.Dialog.v2/0.0.3840.2120@0.0.3840.2120" timestamp="1597102101116" />
+   </component>
+ </project>
+\ No newline at end of file
