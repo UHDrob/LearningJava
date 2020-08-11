@@ -9,6 +9,9 @@ public class Main {
 
         System.out.println(triangleA.sideLenThree);
         System.out.println(triangleB.base);
+
+        System.out.println(Triangle.numOfSides);
+
         System.out.println("and THIS is how we do it!");
     }
 }
